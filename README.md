@@ -4,7 +4,7 @@ Here is a toolbox to help with the tedious parts of setting up Kodai to bot Nike
 As a lot of account generating softwares output account email, password, firstname and lastname into seperate CSV columns, this tool allows you to format this information correctly to enter into a Kodai profile CSV and import profiles easily.
 This tool also will remove '+44' from the start of UK mobile phone numbers for easy import into Kodai profiles CSV and will format Nike accounts for you how you desire so you can easily paste them into Kodai.
 
-* GUIDE *
+--GUIDE--
 
 A CSV template (profiles.csv) and accounts.txt template are provided on this github page. Download these along with kodai-toolbox.exe and put them all in the same folder.
 

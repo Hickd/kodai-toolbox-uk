@@ -12,12 +12,16 @@ To format accounts:
 
 1. Enter account email and password into the correct columns of profiles.csv
 
+![](Screenshot 2023-05-15 at 17.38.57.png)
+
 
 2. Enter your account config as desired (check Kodai guides for the different types of format) e.g. imap_email:imap_password:imap_domain:port
 
 3. Make sure to NOT add a colon (:) at the start of the ACC_CONFIG as the tool does this for you
 
 4. Open the exe and select 'Start' and your accounts will be formatted and outputted to the 'accounts.txt' file!
+
+![](Screenshot 2023-05-15 at 17.40.12.png)
 
 To format UK mobile numbers and first and last names:
 

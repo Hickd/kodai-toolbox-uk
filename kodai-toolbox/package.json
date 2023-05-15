@@ -1,0 +1,27 @@
+{
+  "name": "kodai-toolbox",
+  "version": "1.0.0",
+  "description": "kodai nike toolbox",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "pkg": {
+    "scripts": "index.js",
+    "targets": [
+      "node12-win-x64"
+    ]
+  },
+  "bin": {
+    "kodai-toolbox": "index.js"
+  },
+  "author": "olly hicks",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "csv-parser": "^3.0.0",
+    "csv-write-stream": "^2.0.0",
+    "inquirer": "^8.0.0",
+    "pkg": "^5.8.1"
+  }
+}
